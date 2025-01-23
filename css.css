@@ -1,0 +1,14 @@
+.heading{
+display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 250px; 
+}
+.input{
+display: flex;
+  justify-content: center; 
+  align-items: center; 
+  border: 1px solid #0e491b;
+  border-radius:1;
+  
+}
